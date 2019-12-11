@@ -1,2 +1,3 @@
-# Statistical-Analysis-mini-project
-Data sets used are 'Golf' and 'Laliga'
+Hi Everyone...
+
+Here I have performed some basic statistical Analysis on two datasets, 'Golf' and 'La liga'
